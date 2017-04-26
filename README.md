@@ -1,4 +1,4 @@
-# Arduno-ADS1220-SPI-BitBang
+# Arduino-ADS1220-SPI-BitBang
 ADS1220 SPI ACD interfacing with arduino using BitBang SPI.
 
 ADS1220 Breakout board from Protocentral.
